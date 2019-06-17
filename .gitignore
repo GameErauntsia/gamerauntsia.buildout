@@ -1,0 +1,15 @@
+.coverage
+.installed.cfg
+.mr.developer.cfg
+README.md
+bin/
+develop-eggs/
+eggs/
+etc/
+include/
+lib/
+parts/
+photologue/
+share/
+src/
+
