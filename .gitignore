@@ -1,3 +1,4 @@
+.coverage
 .installed.cfg
 .mr.developer.cfg
 bin/
@@ -11,3 +12,4 @@ src/
 var/
 eggs/
 etc/
+share/
